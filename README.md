@@ -2,7 +2,7 @@ Olá, me chamo Pablo Henrique 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), iniciando minha jornada no desenvolvimento back-end com Java.
 
-Atualmente estou construindo minha base em lógica de programação e Java, buscando evoluir através de exercícios e projetos práticos.
+Atualmente estou construindo minha base em lógica de programação e Java, por meio de estudos e exercícios.
 
 🎯 Objetivo
 
