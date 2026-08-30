@@ -1,8 +1,8 @@
-# Oi, eu sou o Pablo Henrique
+# Olá, me chamo Pablo Henrique
 
 Estou cursando Análise e Desenvolvimento de Sistemas e me preparando para trabalhar com desenvolvimento backend.
 
-## Um pouco sobre mim
+## Um pouco sobre mim:
 
 Estudei lógica de programação e algoritmos por cerca de 3 meses, usando Portugol/VisuAlg. Agora estou começando a estudar Java, que é a linguagem que pretendo usar como desenvolvedor backend. Também já tive um contato básico com HTML.
 
